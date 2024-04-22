@@ -179,7 +179,7 @@ int main(void)
 		printk("Cannot load NDEF file!\n");
 		goto fail;
 	    }
-        ndef_msg_buf = ndef_msg_bufTEST + ndef_msg_buf;
+        //ndef_msg_buf = ndef_msg_bufTEST; //+ ndef_msg_buf;
         if (ndef_file_update(ndef_msg_buf, sizeof(ndef_msg_buf)) < 0 ) {
         printk("Cannot update\n");
         goto fail;
