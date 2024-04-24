@@ -39,66 +39,66 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/mturkalj/Desktop/nfc_projekt/sdk-nrf-main/samples/nfc/record_text/build/zephyr/drivers/disk/cmake_install.cmake")
+  include("C:/Users/mturkalj/Desktop/nfc_projekt/diplomski/nfc_ble_komunikacija/build/zephyr/drivers/disk/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/mturkalj/Desktop/nfc_projekt/sdk-nrf-main/samples/nfc/record_text/build/zephyr/drivers/interrupt_controller/cmake_install.cmake")
+  include("C:/Users/mturkalj/Desktop/nfc_projekt/diplomski/nfc_ble_komunikacija/build/zephyr/drivers/interrupt_controller/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/mturkalj/Desktop/nfc_projekt/sdk-nrf-main/samples/nfc/record_text/build/zephyr/drivers/misc/cmake_install.cmake")
+  include("C:/Users/mturkalj/Desktop/nfc_projekt/diplomski/nfc_ble_komunikacija/build/zephyr/drivers/misc/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/mturkalj/Desktop/nfc_projekt/sdk-nrf-main/samples/nfc/record_text/build/zephyr/drivers/pcie/cmake_install.cmake")
+  include("C:/Users/mturkalj/Desktop/nfc_projekt/diplomski/nfc_ble_komunikacija/build/zephyr/drivers/pcie/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/mturkalj/Desktop/nfc_projekt/sdk-nrf-main/samples/nfc/record_text/build/zephyr/drivers/usb/cmake_install.cmake")
+  include("C:/Users/mturkalj/Desktop/nfc_projekt/diplomski/nfc_ble_komunikacija/build/zephyr/drivers/usb/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/mturkalj/Desktop/nfc_projekt/sdk-nrf-main/samples/nfc/record_text/build/zephyr/drivers/usb_c/cmake_install.cmake")
+  include("C:/Users/mturkalj/Desktop/nfc_projekt/diplomski/nfc_ble_komunikacija/build/zephyr/drivers/usb_c/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/mturkalj/Desktop/nfc_projekt/sdk-nrf-main/samples/nfc/record_text/build/zephyr/drivers/clock_control/cmake_install.cmake")
+  include("C:/Users/mturkalj/Desktop/nfc_projekt/diplomski/nfc_ble_komunikacija/build/zephyr/drivers/clock_control/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/mturkalj/Desktop/nfc_projekt/sdk-nrf-main/samples/nfc/record_text/build/zephyr/drivers/console/cmake_install.cmake")
+  include("C:/Users/mturkalj/Desktop/nfc_projekt/diplomski/nfc_ble_komunikacija/build/zephyr/drivers/console/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/mturkalj/Desktop/nfc_projekt/sdk-nrf-main/samples/nfc/record_text/build/zephyr/drivers/flash/cmake_install.cmake")
+  include("C:/Users/mturkalj/Desktop/nfc_projekt/diplomski/nfc_ble_komunikacija/build/zephyr/drivers/flash/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/mturkalj/Desktop/nfc_projekt/sdk-nrf-main/samples/nfc/record_text/build/zephyr/drivers/gpio/cmake_install.cmake")
+  include("C:/Users/mturkalj/Desktop/nfc_projekt/diplomski/nfc_ble_komunikacija/build/zephyr/drivers/gpio/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/mturkalj/Desktop/nfc_projekt/sdk-nrf-main/samples/nfc/record_text/build/zephyr/drivers/pinctrl/cmake_install.cmake")
+  include("C:/Users/mturkalj/Desktop/nfc_projekt/diplomski/nfc_ble_komunikacija/build/zephyr/drivers/pinctrl/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/mturkalj/Desktop/nfc_projekt/sdk-nrf-main/samples/nfc/record_text/build/zephyr/drivers/serial/cmake_install.cmake")
+  include("C:/Users/mturkalj/Desktop/nfc_projekt/diplomski/nfc_ble_komunikacija/build/zephyr/drivers/serial/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/mturkalj/Desktop/nfc_projekt/sdk-nrf-main/samples/nfc/record_text/build/zephyr/drivers/timer/cmake_install.cmake")
+  include("C:/Users/mturkalj/Desktop/nfc_projekt/diplomski/nfc_ble_komunikacija/build/zephyr/drivers/timer/cmake_install.cmake")
 endif()
 

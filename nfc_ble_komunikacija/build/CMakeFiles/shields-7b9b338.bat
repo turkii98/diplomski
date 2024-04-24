@@ -1,5 +1,5 @@
 @echo off
-cd /D C:\Users\mturkalj\Desktop\nfc_projekt\sdk-nrf-main\samples\nfc\record_text\build || (set FAIL_LINE=2& goto :ABORT)
+cd /D C:\Users\mturkalj\Desktop\nfc_projekt\diplomski\nfc_ble_komunikacija\build || (set FAIL_LINE=2& goto :ABORT)
 C:\ncs\toolchains\c57af46cb7\opt\bin\cmake.exe -E echo adafruit_2_8_tft_touch_v2 || (set FAIL_LINE=3& goto :ABORT)
 C:\ncs\toolchains\c57af46cb7\opt\bin\cmake.exe -E echo adafruit_2_8_tft_touch_v2_nano || (set FAIL_LINE=4& goto :ABORT)
 C:\ncs\toolchains\c57af46cb7\opt\bin\cmake.exe -E echo adafruit_can_picowbell || (set FAIL_LINE=5& goto :ABORT)

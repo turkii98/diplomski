@@ -1,12 +1,12 @@
 linker.cmd: C:/ncs/v2.5.0/zephyr/soc/arm/nordic_nrf/nrf52/linker.ld \
- C:/Users/mturkalj/Desktop/nfc_projekt/sdk-nrf-main/samples/nfc/record_text/build/zephyr/include/generated/autoconf.h \
+ C:/Users/mturkalj/Desktop/nfc_projekt/diplomski/nfc_ble_komunikacija/build/zephyr/include/generated/autoconf.h \
  C:/ncs/v2.5.0/zephyr/include/zephyr/arch/arm/aarch32/cortex_m/scripts/linker.ld \
  C:/ncs/v2.5.0/zephyr/include/zephyr/linker/sections.h \
  C:/ncs/v2.5.0/zephyr/include/zephyr/linker/section_tags.h \
  C:/ncs/v2.5.0/zephyr/include/zephyr/toolchain.h \
  C:/ncs/v2.5.0/zephyr/include/zephyr/toolchain/gcc.h \
  C:/ncs/v2.5.0/zephyr/include/zephyr/devicetree.h \
- C:/Users/mturkalj/Desktop/nfc_projekt/sdk-nrf-main/samples/nfc/record_text/build/zephyr/include/generated/devicetree_generated.h \
+ C:/Users/mturkalj/Desktop/nfc_projekt/diplomski/nfc_ble_komunikacija/build/zephyr/include/generated/devicetree_generated.h \
  C:/ncs/v2.5.0/zephyr/include/zephyr/sys/util.h \
  C:/ncs/v2.5.0/zephyr/include/zephyr/sys/util_macro.h \
  C:/ncs/v2.5.0/zephyr/include/zephyr/sys/util_internal.h \
@@ -28,12 +28,12 @@ linker.cmd: C:/ncs/v2.5.0/zephyr/soc/arm/nordic_nrf/nrf52/linker.ld \
  C:/ncs/v2.5.0/zephyr/include/zephyr/linker/devicetree_regions.h \
  C:/ncs/v2.5.0/zephyr/include/zephyr/linker/linker-defs.h \
  C:/ncs/v2.5.0/zephyr/include/zephyr/toolchain/common.h \
- C:/Users/mturkalj/Desktop/nfc_projekt/sdk-nrf-main/samples/nfc/record_text/build/zephyr/include/generated/offsets.h \
+ C:/Users/mturkalj/Desktop/nfc_projekt/diplomski/nfc_ble_komunikacija/build/zephyr/include/generated/offsets.h \
  C:/ncs/v2.5.0/zephyr/include/zephyr/linker/linker-tool.h \
  C:/ncs/v2.5.0/zephyr/include/zephyr/linker/linker-tool-gcc.h \
  C:/ncs/v2.5.0/zephyr/include/zephyr/sys/mem_manage.h \
  C:/ncs/v2.5.0/zephyr/include/zephyr/linker/rel-sections.ld \
- C:/Users/mturkalj/Desktop/nfc_projekt/sdk-nrf-main/samples/nfc/record_text/build/zephyr/include/generated/snippets-rom-start.ld \
+ C:/Users/mturkalj/Desktop/nfc_projekt/diplomski/nfc_ble_komunikacija/build/zephyr/include/generated/snippets-rom-start.ld \
  c:\ncs\v2.5.0\zephyr\arch\common\rom_start_address.ld \
  c:\ncs\v2.5.0\zephyr\arch\common\rom_start_offset.ld \
  c:\ncs\v2.5.0\zephyr\arch\arm\core\aarch32\vector_table.ld \
@@ -52,19 +52,19 @@ linker.cmd: C:/ncs/v2.5.0/zephyr/soc/arm/nordic_nrf/nrf52/linker.ld \
  C:/ncs/v2.5.0/zephyr/include/zephyr/linker/common-rom/common-rom-debug.ld \
  C:/ncs/v2.5.0/zephyr/include/zephyr/linker/common-rom/common-rom-misc.ld \
  C:/ncs/v2.5.0/zephyr/include/zephyr/linker/thread-local-storage.ld \
- C:/Users/mturkalj/Desktop/nfc_projekt/sdk-nrf-main/samples/nfc/record_text/build/zephyr/include/generated/snippets-rodata.ld \
+ C:/Users/mturkalj/Desktop/nfc_projekt/diplomski/nfc_ble_komunikacija/build/zephyr/include/generated/snippets-rodata.ld \
  C:/ncs/v2.5.0/zephyr/include/zephyr/linker/kobject-rom.ld \
  C:/ncs/v2.5.0/zephyr/include/zephyr/linker/cplusplus-rom.ld \
- C:/Users/mturkalj/Desktop/nfc_projekt/sdk-nrf-main/samples/nfc/record_text/build/zephyr/include/generated/snippets-ram-sections.ld \
+ C:/Users/mturkalj/Desktop/nfc_projekt/diplomski/nfc_ble_komunikacija/build/zephyr/include/generated/snippets-ram-sections.ld \
  c:\ncs\v2.5.0\zephyr\arch\common\ramfunc.ld \
- C:/Users/mturkalj/Desktop/nfc_projekt/sdk-nrf-main/samples/nfc/record_text/build/zephyr/include/generated/snippets-ramfunc-section.ld \
- C:/Users/mturkalj/Desktop/nfc_projekt/sdk-nrf-main/samples/nfc/record_text/build/zephyr/include/generated/snippets-rwdata.ld \
+ C:/Users/mturkalj/Desktop/nfc_projekt/diplomski/nfc_ble_komunikacija/build/zephyr/include/generated/snippets-ramfunc-section.ld \
+ C:/Users/mturkalj/Desktop/nfc_projekt/diplomski/nfc_ble_komunikacija/build/zephyr/include/generated/snippets-rwdata.ld \
  C:/ncs/v2.5.0/zephyr/include/zephyr/linker/common-ram.ld \
  C:/ncs/v2.5.0/zephyr/include/zephyr/linker/kobject-data.ld \
  C:/ncs/v2.5.0/zephyr/include/zephyr/linker/cplusplus-ram.ld \
- C:/Users/mturkalj/Desktop/nfc_projekt/sdk-nrf-main/samples/nfc/record_text/build/zephyr/include/generated/snippets-data-sections.ld \
- C:/Users/mturkalj/Desktop/nfc_projekt/sdk-nrf-main/samples/nfc/record_text/build/zephyr/include/generated/snippets-noinit.ld \
- C:/Users/mturkalj/Desktop/nfc_projekt/sdk-nrf-main/samples/nfc/record_text/build/zephyr/include/generated/snippets-sections.ld \
+ C:/Users/mturkalj/Desktop/nfc_projekt/diplomski/nfc_ble_komunikacija/build/zephyr/include/generated/snippets-data-sections.ld \
+ C:/Users/mturkalj/Desktop/nfc_projekt/diplomski/nfc_ble_komunikacija/build/zephyr/include/generated/snippets-noinit.ld \
+ C:/Users/mturkalj/Desktop/nfc_projekt/diplomski/nfc_ble_komunikacija/build/zephyr/include/generated/snippets-sections.ld \
  C:/ncs/v2.5.0/zephyr/include/zephyr/linker/intlist.ld \
  C:/ncs/v2.5.0/zephyr/include/zephyr/linker/ram-end.ld \
  C:/ncs/v2.5.0/zephyr/include/zephyr/linker/debug-sections.ld

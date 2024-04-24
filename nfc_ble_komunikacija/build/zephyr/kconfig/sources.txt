@@ -1,7 +1,7 @@
-C:\Users\mturkalj\Desktop\nfc_projekt\sdk-nrf-main\samples\nfc\record_text\build\Kconfig\Kconfig.dts
-C:\Users\mturkalj\Desktop\nfc_projekt\sdk-nrf-main\samples\nfc\record_text\build\Kconfig\Kconfig.modules
-C:\Users\mturkalj\Desktop\nfc_projekt\sdk-nrf-main\samples\nfc\record_text\build\Kconfig\Kconfig.shield
-C:\Users\mturkalj\Desktop\nfc_projekt\sdk-nrf-main\samples\nfc\record_text\build\Kconfig\Kconfig.shield.defconfig
+C:\Users\mturkalj\Desktop\nfc_projekt\diplomski\nfc_ble_komunikacija\build\Kconfig\Kconfig.dts
+C:\Users\mturkalj\Desktop\nfc_projekt\diplomski\nfc_ble_komunikacija\build\Kconfig\Kconfig.modules
+C:\Users\mturkalj\Desktop\nfc_projekt\diplomski\nfc_ble_komunikacija\build\Kconfig\Kconfig.shield
+C:\Users\mturkalj\Desktop\nfc_projekt\diplomski\nfc_ble_komunikacija\build\Kconfig\Kconfig.shield.defconfig
 C:\ncs\toolchains\c57af46cb7\opt\zephyr-sdk\cmake\zephyr\Kconfig
 C:\ncs\v2.5.0\modules\debug\TraceRecorder\config\Kconfig
 C:\ncs\v2.5.0\modules\debug\TraceRecorder\kernelports\Zephyr\Kconfig

@@ -39,26 +39,26 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/mturkalj/Desktop/nfc_projekt/sdk-nrf-main/samples/nfc/record_text/build/modules/nrf/subsys/net/cmake_install.cmake")
+  include("C:/Users/mturkalj/Desktop/nfc_projekt/diplomski/nfc_ble_komunikacija/build/modules/nrf/subsys/net/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/mturkalj/Desktop/nfc_projekt/sdk-nrf-main/samples/nfc/record_text/build/modules/nrf/subsys/dfu/cmake_install.cmake")
+  include("C:/Users/mturkalj/Desktop/nfc_projekt/diplomski/nfc_ble_komunikacija/build/modules/nrf/subsys/dfu/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/mturkalj/Desktop/nfc_projekt/sdk-nrf-main/samples/nfc/record_text/build/modules/nrf/subsys/nfc/cmake_install.cmake")
+  include("C:/Users/mturkalj/Desktop/nfc_projekt/diplomski/nfc_ble_komunikacija/build/modules/nrf/subsys/nfc/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/mturkalj/Desktop/nfc_projekt/sdk-nrf-main/samples/nfc/record_text/build/modules/nrf/subsys/shell/cmake_install.cmake")
+  include("C:/Users/mturkalj/Desktop/nfc_projekt/diplomski/nfc_ble_komunikacija/build/modules/nrf/subsys/shell/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/mturkalj/Desktop/nfc_projekt/sdk-nrf-main/samples/nfc/record_text/build/modules/nrf/subsys/debug/cmake_install.cmake")
+  include("C:/Users/mturkalj/Desktop/nfc_projekt/diplomski/nfc_ble_komunikacija/build/modules/nrf/subsys/debug/cmake_install.cmake")
 endif()
 
