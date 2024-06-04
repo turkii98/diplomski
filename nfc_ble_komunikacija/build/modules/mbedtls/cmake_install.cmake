@@ -1,4 +1,4 @@
-# Install script for directory: C:/ncs/v2.5.0/zephyr/modules/mbedtls
+# Install script for directory: C:/ncs/v2.5.3/zephyr/modules/mbedtls
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

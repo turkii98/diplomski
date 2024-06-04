@@ -1,4 +1,4 @@
-# Install script for directory: C:/ncs/v2.5.0/nrf/lib/fatal_error
+# Install script for directory: C:/ncs/v2.5.3/nrf/lib/fatal_error
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

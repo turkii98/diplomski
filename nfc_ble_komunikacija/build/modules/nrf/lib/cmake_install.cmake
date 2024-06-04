@@ -1,4 +1,4 @@
-# Install script for directory: C:/ncs/v2.5.0/nrf/lib
+# Install script for directory: C:/ncs/v2.5.3/nrf/lib
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,21 +39,26 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/mturkalj/Desktop/nfc_projekt/diplomski/nfc_ble_komunikacija/build/modules/nrf/lib/bin/cmake_install.cmake")
+  include("C:/diplomski/diplomski/nfc_ble_komunikacija/build/modules/nrf/lib/bin/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/mturkalj/Desktop/nfc_projekt/diplomski/nfc_ble_komunikacija/build/modules/nrf/lib/dk_buttons_and_leds/cmake_install.cmake")
+  include("C:/diplomski/diplomski/nfc_ble_komunikacija/build/modules/nrf/lib/dk_buttons_and_leds/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/mturkalj/Desktop/nfc_projekt/diplomski/nfc_ble_komunikacija/build/modules/nrf/lib/flash_patch/cmake_install.cmake")
+  include("C:/diplomski/diplomski/nfc_ble_komunikacija/build/modules/nrf/lib/multithreading_lock/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/mturkalj/Desktop/nfc_projekt/diplomski/nfc_ble_komunikacija/build/modules/nrf/lib/fatal_error/cmake_install.cmake")
+  include("C:/diplomski/diplomski/nfc_ble_komunikacija/build/modules/nrf/lib/flash_patch/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("C:/diplomski/diplomski/nfc_ble_komunikacija/build/modules/nrf/lib/fatal_error/cmake_install.cmake")
 endif()
 

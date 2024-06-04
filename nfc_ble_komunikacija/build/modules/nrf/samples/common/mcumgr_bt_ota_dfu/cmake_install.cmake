@@ -1,4 +1,4 @@
-# Install script for directory: C:/ncs/v2.5.0/nrf/samples/common/mcumgr_bt_ota_dfu
+# Install script for directory: C:/ncs/v2.5.3/nrf/samples/common/mcumgr_bt_ota_dfu
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

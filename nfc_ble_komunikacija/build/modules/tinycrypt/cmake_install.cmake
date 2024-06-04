@@ -1,4 +1,4 @@
-# Install script for directory: C:/ncs/v2.5.0/modules/crypto/tinycrypt
+# Install script for directory: C:/ncs/v2.5.3/modules/crypto/tinycrypt
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -35,5 +35,10 @@ endif()
 # Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
   set(CMAKE_OBJDUMP "C:/ncs/toolchains/c57af46cb7/opt/zephyr-sdk/arm-zephyr-eabi/bin/arm-zephyr-eabi-objdump.exe")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("C:/diplomski/diplomski/nfc_ble_komunikacija/build/modules/tinycrypt/lib/cmake_install.cmake")
 endif()
 

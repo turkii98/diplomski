@@ -1,4 +1,4 @@
-# Install script for directory: C:/ncs/v2.5.0/nrf/lib/dk_buttons_and_leds
+# Install script for directory: C:/ncs/v2.5.3/nrf/lib/dk_buttons_and_leds
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

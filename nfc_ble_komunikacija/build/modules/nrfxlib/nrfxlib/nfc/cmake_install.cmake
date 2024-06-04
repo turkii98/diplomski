@@ -1,4 +1,4 @@
-# Install script for directory: C:/ncs/v2.5.0/nrfxlib/nfc
+# Install script for directory: C:/ncs/v2.5.3/nrfxlib/nfc
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

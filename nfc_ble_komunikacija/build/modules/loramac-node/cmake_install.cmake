@@ -1,4 +1,4 @@
-# Install script for directory: C:/ncs/v2.5.0/zephyr/modules/loramac-node
+# Install script for directory: C:/ncs/v2.5.3/zephyr/modules/loramac-node
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

@@ -1,4 +1,4 @@
-# Install script for directory: C:/ncs/v2.5.0/nrfxlib/crypto
+# Install script for directory: C:/ncs/v2.5.3/nrfxlib/crypto
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

@@ -1,4 +1,4 @@
-# Install script for directory: C:/ncs/v2.5.0/modules/lib/open-amp
+# Install script for directory: C:/ncs/v2.5.3/modules/lib/open-amp
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

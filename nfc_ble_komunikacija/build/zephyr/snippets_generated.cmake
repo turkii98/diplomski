@@ -13,7 +13,7 @@
 set(SNIPPET_NAMES "cdc-acm-console" "nrf91-modem-trace-uart")
 # The paths to all the snippet.yml files. One snippet
 # can have multiple snippet.yml files.
-set(SNIPPET_PATHS "C:\/ncs/v2.5.0/nrf/snippets/nrf91-modem-trace-uart/snippet.yml" "C:\/ncs/v2.5.0/zephyr/snippets/cdc-acm-console/snippet.yml")
+set(SNIPPET_PATHS "C:\/ncs/v2.5.3/nrf/snippets/nrf91-modem-trace-uart/snippet.yml" "C:\/ncs/v2.5.3/zephyr/snippets/cdc-acm-console/snippet.yml")
 
 # Create variable scope for snippets build variables
 zephyr_create_scope(snippets)

@@ -1,4 +1,4 @@
-# Install script for directory: C:/ncs/v2.5.0/modules/hal/st
+# Install script for directory: C:/ncs/v2.5.3/modules/hal/st
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

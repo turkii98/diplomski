@@ -105,6 +105,38 @@
     ],
     [
         [
+            "uint32_t sys_rand32_get",
+            "void"
+        ],
+        "rand32.h",
+        true
+    ],
+    [
+        [
+            "void sys_rand_get",
+            "void *dst, size_t len"
+        ],
+        "rand32.h",
+        true
+    ],
+    [
+        [
+            "int sys_csrand_get",
+            "void *dst, size_t len"
+        ],
+        "rand32.h",
+        true
+    ],
+    [
+        [
+            "int entropy_get_entropy",
+            "const struct device *dev,\n\t\t\t\t  uint8_t *buffer,\n\t\t\t\t  uint16_t length"
+        ],
+        "entropy.h",
+        true
+    ],
+    [
+        [
             "void nrf_qspi_nor_xip_enable",
             "const struct device *dev, bool enable"
         ],
@@ -1913,14 +1945,6 @@
     ],
     [
         [
-            "int entropy_get_entropy",
-            "const struct device *dev,\n\t\t\t\t  uint8_t *buffer,\n\t\t\t\t  uint16_t length"
-        ],
-        "entropy.h",
-        false
-    ],
-    [
-        [
             "int espi_config",
             "const struct device *dev, struct espi_cfg *cfg"
         ],
@@ -3709,30 +3733,6 @@
             "int nfds, zsock_fd_set *readfds,\n\t\t\t   zsock_fd_set *writefds,\n\t\t\t   zsock_fd_set *exceptfds,\n\t\t\t   struct zsock_timeval *timeout"
         ],
         "socket_select.h",
-        false
-    ],
-    [
-        [
-            "uint32_t sys_rand32_get",
-            "void"
-        ],
-        "rand32.h",
-        false
-    ],
-    [
-        [
-            "void sys_rand_get",
-            "void *dst, size_t len"
-        ],
-        "rand32.h",
-        false
-    ],
-    [
-        [
-            "int sys_csrand_get",
-            "void *dst, size_t len"
-        ],
-        "rand32.h",
         false
     ],
     [

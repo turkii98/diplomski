@@ -1,4 +1,4 @@
-# Install script for directory: C:/ncs/v2.5.0/modules/lib/zscilib
+# Install script for directory: C:/ncs/v2.5.3/modules/lib/zscilib
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

@@ -1,4 +1,4 @@
-# Install script for directory: C:/ncs/v2.5.0/zephyr/modules/hal_nordic/nrfx
+# Install script for directory: C:/ncs/v2.5.3/zephyr/modules/hal_nordic/nrfx
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

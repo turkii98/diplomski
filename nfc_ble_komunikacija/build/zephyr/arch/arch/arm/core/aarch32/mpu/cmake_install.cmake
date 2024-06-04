@@ -1,4 +1,4 @@
-# Install script for directory: C:/ncs/v2.5.0/zephyr/arch/arm/core/aarch32/mpu
+# Install script for directory: C:/ncs/v2.5.3/zephyr/arch/arm/core/aarch32/mpu
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

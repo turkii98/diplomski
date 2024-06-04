@@ -1,4 +1,4 @@
-# Install script for directory: C:/ncs/v2.5.0/zephyr/modules/TraceRecorder
+# Install script for directory: C:/ncs/v2.5.3/zephyr/modules/TraceRecorder
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

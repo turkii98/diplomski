@@ -1,4 +1,4 @@
-# Install script for directory: C:/ncs/v2.5.0/zephyr/drivers/pcie
+# Install script for directory: C:/ncs/v2.5.3/zephyr/drivers/pcie
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

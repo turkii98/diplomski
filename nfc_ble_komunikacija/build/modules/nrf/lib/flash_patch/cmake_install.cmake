@@ -1,4 +1,4 @@
-# Install script for directory: C:/ncs/v2.5.0/nrf/lib/flash_patch
+# Install script for directory: C:/ncs/v2.5.3/nrf/lib/flash_patch
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

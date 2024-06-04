@@ -1,4 +1,4 @@
-# Install script for directory: C:/ncs/v2.5.0/nrf/modules/nrfxlib
+# Install script for directory: C:/ncs/v2.5.3/nrf/modules/nrfxlib
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,11 +39,11 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/mturkalj/Desktop/nfc_projekt/diplomski/nfc_ble_komunikacija/build/modules/nrfxlib/nrfxlib/cmake_install.cmake")
+  include("C:/diplomski/diplomski/nfc_ble_komunikacija/build/modules/nrfxlib/nrfxlib/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/mturkalj/Desktop/nfc_projekt/diplomski/nfc_ble_komunikacija/build/modules/nrfxlib/nrf_802154/cmake_install.cmake")
+  include("C:/diplomski/diplomski/nfc_ble_komunikacija/build/modules/nrfxlib/nrf_802154/cmake_install.cmake")
 endif()
 

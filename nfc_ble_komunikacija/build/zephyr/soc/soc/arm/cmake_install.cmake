@@ -1,4 +1,4 @@
-# Install script for directory: C:/ncs/v2.5.0/zephyr/soc/arm
+# Install script for directory: C:/ncs/v2.5.3/zephyr/soc/arm
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,11 +39,11 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/mturkalj/Desktop/nfc_projekt/diplomski/nfc_ble_komunikacija/build/zephyr/soc/soc/arm/common/cortex_m/cmake_install.cmake")
+  include("C:/diplomski/diplomski/nfc_ble_komunikacija/build/zephyr/soc/soc/arm/common/cortex_m/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/mturkalj/Desktop/nfc_projekt/diplomski/nfc_ble_komunikacija/build/zephyr/soc/soc/arm/nordic_nrf/cmake_install.cmake")
+  include("C:/diplomski/diplomski/nfc_ble_komunikacija/build/zephyr/soc/soc/arm/nordic_nrf/cmake_install.cmake")
 endif()
 

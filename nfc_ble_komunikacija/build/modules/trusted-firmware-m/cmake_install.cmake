@@ -1,4 +1,4 @@
-# Install script for directory: C:/ncs/v2.5.0/zephyr/modules/trusted-firmware-m
+# Install script for directory: C:/ncs/v2.5.3/zephyr/modules/trusted-firmware-m
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

@@ -1,4 +1,4 @@
-# Install script for directory: C:/ncs/v2.5.0/nrf/modules/azure-sdk-for-c
+# Install script for directory: C:/ncs/v2.5.3/nrf/modules/azure-sdk-for-c
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

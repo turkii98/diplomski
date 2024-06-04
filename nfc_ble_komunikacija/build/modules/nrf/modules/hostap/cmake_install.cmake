@@ -1,4 +1,4 @@
-# Install script for directory: C:/ncs/v2.5.0/nrf/modules/hostap
+# Install script for directory: C:/ncs/v2.5.3/nrf/modules/hostap
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

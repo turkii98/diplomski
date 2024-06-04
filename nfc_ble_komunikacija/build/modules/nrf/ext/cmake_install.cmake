@@ -1,4 +1,4 @@
-# Install script for directory: C:/ncs/v2.5.0/nrf/ext
+# Install script for directory: C:/ncs/v2.5.3/nrf/ext
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

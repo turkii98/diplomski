@@ -1,4 +1,4 @@
-# Install script for directory: C:/ncs/v2.5.0/nrf/subsys/nfc/t4t
+# Install script for directory: C:/ncs/v2.5.3/nrf/subsys/nfc/t4t
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

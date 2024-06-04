@@ -1,4 +1,4 @@
-# Install script for directory: C:/ncs/v2.5.0/nrf/subsys/net
+# Install script for directory: C:/ncs/v2.5.3/nrf/subsys/net
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,6 +39,6 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/mturkalj/Desktop/nfc_projekt/diplomski/nfc_ble_komunikacija/build/modules/nrf/subsys/net/lib/cmake_install.cmake")
+  include("C:/diplomski/diplomski/nfc_ble_komunikacija/build/modules/nrf/subsys/net/lib/cmake_install.cmake")
 endif()
 

@@ -1,4 +1,4 @@
-# Install script for directory: C:/ncs/v2.5.0/modules/lib/matter/config/nrfconnect/chip-module
+# Install script for directory: C:/ncs/v2.5.3/modules/lib/matter/config/nrfconnect/chip-module
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
