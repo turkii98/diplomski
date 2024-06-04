@@ -21,6 +21,7 @@
 #include <bluetooth/scan.h>
 #include <bluetooth/gatt_dm.h>
 
+#define SLEEP_TIME          5
 #define MAX_REC_COUNT       3
 #define NDEF_MSG_BUF_SIZE   1024
 #define NFC_FIELD_LED       DK_LED1
@@ -185,7 +186,7 @@ void nfc_callback_with_wake(void *context, nfc_t2t_event_t event, const uint8_t 
     nfc_callback(context, event, data, data_length);
 
     k_timer_stop(&ble_send_timer);  // Stop the timer to wake up the system
-    k_timer_start(&ble_send_timer, K_SECONDS(5), K_SECONDS(5));  // Restart the timer
+    k_timer_start(&ble_send_timer, K_SECONDS(SLEEP_TIME), K_SECONDS(SLEEP_TIME));  // Restart the timer
 }
 
 void main(void)
@@ -251,13 +252,13 @@ void main(void)
     }
 
     /* Start the timer for periodic BLE data sending */
-    k_timer_start(&ble_send_timer, K_SECONDS(5), K_SECONDS(5));
+    k_timer_start(&ble_send_timer, K_SECONDS(SLEEP_TIME), K_SECONDS(SLEEP_TIME));
 
     while (1) {
         // System goes to sleep until next event (timer or NFC)
         nfc_t2t_emulation_stop();
-    static uint32_t len = NDEF_MSG_BUF_SIZE;
-    if (encode_msg(ndef_msg_buf, &len) < 0) {
+        static uint32_t len = NDEF_MSG_BUF_SIZE;
+        if (encode_msg(ndef_msg_buf, &len) < 0) {
             printk("Cannot encode message!\n");
         } else {
             //len = sizeof(ndef_msg_buf);
@@ -283,7 +284,6 @@ void main(void)
 fail:
 #if CONFIG_REBOOT
     sys_reboot(SYS_REBOOT_COLD);
-#endif /* CONFIG_REBOOT */
-
+#endif
     return;
 }

@@ -1,6 +1,6 @@
 sample:
-  description: NFC
-  name: NFC
+  description: NFC and BLE
+  name: NFC and BLE
 tests:
   sample.nfc.record_text:
     build_only: true
