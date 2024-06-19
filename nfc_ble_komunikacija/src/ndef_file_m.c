@@ -27,7 +27,7 @@
 #define FLASH_URL_ADDRESS_ID 1 /**< Address of URL message in FLASH */
 
 static const uint8_t m_url[] = /**< Default NDEF message: URL "croatia.com". */
-	{'c', 'r', 'o', 'a', 't', 'i', 'a', '.', 'c', 'o', 'm'};
+	{'p', 'a', 'y', 'l', 'o', 'a', 'd', ';'};
 
 /* Flash partition for NVS */
 #define NVS_FLASH_DEVICE FIXED_PARTITION_DEVICE(storage_partition)
